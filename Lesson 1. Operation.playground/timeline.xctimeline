@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Developer/RayWenderlich%20Concurrency%20Course/Lesson%201.%20NSOperation.playground#CharacterRangeLen=1391&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=0&amp;EndingLineNumber=80&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=552394495.354874"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Developer/RayWenderlich%20Concurrency%20Course/Lesson%201.%20NSOperation.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=1216&amp;EndingColumnNumber=10&amp;EndingLineNumber=63&amp;StartingColumnNumber=5&amp;StartingLineNumber=63&amp;Timestamp=552394495.3550299"
+         lockedSize = "{660, 292}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Developer/RayWenderlich%20Concurrency%20Course/Lesson%201.%20NSOperation.playground#CharacterRangeLen=16&amp;CharacterRangeLoc=1369&amp;EndingColumnNumber=0&amp;EndingLineNumber=74&amp;StartingColumnNumber=1&amp;StartingLineNumber=73&amp;Timestamp=552394495.3551691"
+         lockedSize = "{651, 303}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
